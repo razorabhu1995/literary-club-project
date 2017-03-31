@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+body{
+	background-color: #ebebeb !important;
+
+}
+
+
+div#xyz div div img{
+	height: 250px;
+	width: 170px;
+	padding:20px 5px;
+		-webkit-transition: all 1s; /* For Safari 3.1 to 6.0 */
+    transition: all 1s;
+
+
+}
+
+
+div#xyz div div img:hover{
+padding:0;
+width:300px;
+}
+
+#xyz{
+	background-color: #dbdbdb;
+}
